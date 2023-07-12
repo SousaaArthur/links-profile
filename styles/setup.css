@@ -52,6 +52,7 @@ body{
 .search-bar:focus{
     border: 1px solid #f8f8f8;
     outline: none;
+    overflow: auto;
 }
 
 .btn-search{
