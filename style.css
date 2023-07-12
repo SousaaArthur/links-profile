@@ -37,7 +37,7 @@ i:hover{
 
 .panel{
     background-color: #131212;
-    height: 40rem;
+    height: 37rem;
     width: 20rem;
 }
 
@@ -64,7 +64,7 @@ i:hover{
     align-items: center;
     flex-direction: column;
     background-color: #1c1c1c;
-    height: 27rem;
+    height: 23rem;
     border-radius: 40px 40px 5px 5px;
 }
 
