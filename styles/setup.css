@@ -28,9 +28,8 @@ body{
     background-color: #131212;
     height: 37rem;
     width: 20rem;
-    position: fixed;
-    top: 2rem;
-    left: 2rem;
+    position: sticky;
+    top: 9%;
 }
 
 .search{
@@ -106,4 +105,11 @@ body{
 .products p:hover{
     color: #fafafa;
     border: 1px solid #fafafa;
+}
+
+@media (max-width: 425px) {
+    .panel{
+        position: fixed;
+        top: 8%;
+    }
 }
